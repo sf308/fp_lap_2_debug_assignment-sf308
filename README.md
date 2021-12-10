@@ -15,7 +15,7 @@ This is a full stack web application with an HTML/CSS/JS client and an Express s
 [Here is a clip to demonstrate the App.](https://www.youtube.com/watch?v=fq53QtF-5MU)
 
 
-## There are some bugs that need to be fixed
+## There are some bugs that need to be fixed(As of 10/12/2021, these bugs have now been fixed)
 - HTML elements fail to fetch the SQL query results so the books and authors are not being displayed.
 ![Alt Text](https://github.com/getfutureproof/fp_lap_2_debug_assignment-sf308/blob/souheil/authors_fail.GIF)
 ![Alt Text](https://github.com/getfutureproof/fp_lap_2_debug_assignment-sf308/blob/souheil/books_fail.GIF)
