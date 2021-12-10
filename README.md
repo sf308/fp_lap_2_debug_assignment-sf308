@@ -21,10 +21,10 @@ This is a full stack web application with an HTML/CSS/JS client and an Express s
 ![Alt Text](https://github.com/getfutureproof/fp_lap_2_debug_assignment-sf308/blob/souheil/books_fail.GIF)
 
 ## Check out the reported test coverage(Updated)
-Test Suites: 2 failed, 4 passed, 6 total
-Tests:       3 failed, 20 passed, 23 total
+Test Suites: 6 passed, 6 total
+Tests:       23 passed, 23 total
 Snapshots:   0 total
-Time:        10.01 s, estimated 28 s
+Time:        12.22 s, estimated 18 s
 Ran all test suites.
 
 ## Use the commands below to run tests
