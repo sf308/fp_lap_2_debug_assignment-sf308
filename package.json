@@ -1,0 +1,25 @@
+{
+  "name": "fp_lap_2_debug_assignment-sf308",
+  "version": "1.0.0",
+  "description": "Welcome to your second debugging assignment! This is a full stack web application with an HTML/CSS/JS client and an Express server connected to PostgreSQL database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getfutureproof/fp_lap_2_debug_assignment-sf308.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/getfutureproof/fp_lap_2_debug_assignment-sf308/issues"
+  },
+  "homepage": "https://github.com/getfutureproof/fp_lap_2_debug_assignment-sf308#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jest": "^27.4.3",
+    "pg": "^8.7.1"
+  }
+}
